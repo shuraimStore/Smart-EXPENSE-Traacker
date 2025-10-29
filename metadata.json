@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Design Consultant",
+  "description": "An interactive room makeover app. Upload a photo of your space, and get AI-reimagined designs. Use the 'Compare' slider to see the before and after, and chat with the AI to refine the design and get shoppable links.",
+  "requestFramePermissions": []
+}
